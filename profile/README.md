@@ -10,7 +10,14 @@
 
 🍿 同时我们同样也欢迎大家pr&&star，使这个项目越来越好！
 
+## 联系我们
+
+email:server@mcnia.com
+
 ## 核心项目
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NIAHttpBOT)](https://github.com/Nia-Server/NIAHttpBOT)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Core)](https://github.com/Nia-Server/NiaServer-Core)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Core-Lite)](https://github.com/Nia-Server/NiaServer-Core-Lite)
