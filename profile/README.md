@@ -16,8 +16,14 @@ email:server@mcnia.com
 
 ## 核心项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NIAHttpBOT)](https://github.com/Nia-Server/NIAHttpBOT)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Core)](https://github.com/Nia-Server/NiaServer-Core)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Core-Lite)](https://github.com/Nia-Server/NiaServer-Core-Lite)
+## 子项目
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NIAHttpBOT)](https://github.com/Nia-Server/NIAHttpBOT)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-ExtraFeatures)](https://github.com/Nia-Server/NiaServer-ExtraFeatures)
+
+## 文档站
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Docs)](https://github.com/Nia-Server/=NiaServer-Docs)
