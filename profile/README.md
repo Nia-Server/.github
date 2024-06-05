@@ -23,7 +23,7 @@
 
 ## 文档站
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Docs)](https://github.com/Nia-Server/=NiaServer-Docs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Docs)](https://github.com/Nia-Server/NiaServer-Docs)
 
 ## 联系我们
 
