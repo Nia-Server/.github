@@ -10,9 +10,6 @@
 
 🍿 同时我们同样也欢迎大家pr&&star，使这个项目越来越好！
 
-## 联系我们
-
-email:server@mcnia.com
 
 ## 核心项目
 
@@ -27,3 +24,7 @@ email:server@mcnia.com
 ## 文档站
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Docs)](https://github.com/Nia-Server/=NiaServer-Docs)
+
+## 联系我们
+
+email: server@mcnia.com
