@@ -27,4 +27,4 @@
 
 ## 联系我们
 
-email: server@mcnia.com
+email: dev@mcnia.com
