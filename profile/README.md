@@ -4,6 +4,8 @@
 
 🙋‍♀️ 一个基于基岩版的MC服务器
 
+😽服务器创建者[@NIANIANKNIA](https://github.com/NIANIANKNIA/)
+
 🌈 在这里我们开源了服务器所有的相关文件：行为包，外置机器人等...
 
 👩‍💻 如果你在使用过程中遇到问题，可以先前往服务器[文档](https://docs.mcnia.com)查看，或者在相关项目下发送issue！
