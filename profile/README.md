@@ -4,7 +4,7 @@
 
 🙋‍♀️ 一个基于基岩版的MC服务器
 
-😽服务器创建者[@NIANIANKNIA](https://github.com/NIANIANKNIA/)
+😽 服务器创建者 [@NIANIANKNIA](https://github.com/NIANIANKNIA/)
 
 🌈 在这里我们开源了服务器所有的相关文件：行为包，外置机器人等...
 
