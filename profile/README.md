@@ -14,14 +14,18 @@
 
 
 ## 核心项目
+[![Latest Release](https://img.shields.io/github/v/release/Nia-Server/NiaServer-Core?include_prereleases&style=for-the-badge)](https://github.com/Nia-Server/NiaServer-Core/releases/latest)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Core)](https://github.com/Nia-Server/NiaServer-Core)
 
 ## 子项目
+[![Latest Release](https://img.shields.io/github/v/release/Nia-Server/NIAHttpBOT?include_prereleases&style=for-the-badge)](https://github.com/Nia-Server/NIAHttpBOT/releases/latest)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NIAHttpBOT)](https://github.com/Nia-Server/NIAHttpBOT)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-ExtraFeatures)](https://github.com/Nia-Server/NiaServer-ExtraFeatures)
+[![Latest Release](https://img.shields.io/github/v/release/Nia-Server/NiaServer-Extra?include_prereleases&style=for-the-badge)](https://github.com/Nia-Server/NiaServer-Extra/releases/latest)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Extra)](https://github.com/Nia-Server/NiaServer-Extra)
 
 ## 文档站
 
