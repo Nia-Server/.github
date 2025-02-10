@@ -31,6 +31,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=NiaServer-Docs)](https://github.com/Nia-Server/NiaServer-Docs)
 
+## 服务器工具
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nia-Server&repo=Handy-Tools)](https://github.com/Nia-Server/Handy-Tools)
+
 ## 联系我们
 
 email: dev@mcnia.com
