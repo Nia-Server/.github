@@ -38,3 +38,7 @@
 ## 联系我们
 
 email: dev@mcnia.com
+
+## 赞助我们
+
+[爱发电：https://afdian.com/a/Nia-Server](https://afdian.com/a/Nia-Server)
